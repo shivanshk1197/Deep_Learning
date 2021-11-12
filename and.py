@@ -22,3 +22,5 @@ if __name__ == '__main__':
     ETA = 0.3 # 0 and 1
     EPOCHS = 10
     main(data=AND, modelName="and.model", plotName="and.png", eta=ETA, epochs=EPOCHS)
+
+    #New Env

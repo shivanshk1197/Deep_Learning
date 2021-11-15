@@ -18,7 +18,7 @@ cp Research\ notebooks/demo.ipynb .
 <a href="https://www.w3schools.com">Visit W3Schools.com!</a>
 
 ## Add image -
-![sample Image](plots/and.png)
+![sample Image](plots/or.png)
 
 <img src="plots/and.png" alt="Girl in a jacket" width="500" height="600">
 
